@@ -48,7 +48,7 @@ variable "subnet_address_prefix" {
   type        = string
 }
 
-/*
+/*#
 variable "nic_name" {
   description = "The name of the network interface"
   type        = string
