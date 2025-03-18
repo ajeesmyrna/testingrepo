@@ -12,4 +12,5 @@ subnet_address_prefix        = "10.3.1.0/24"
 vm_name                      = "example-vm"
 vm_size                      = "Standard_DS1_v2"
 admin_username               = "adminuser"
+#admin_username               = "adminuser"
 admin_password               = "Password1234!"*/
